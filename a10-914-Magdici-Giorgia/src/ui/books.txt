@@ -1,0 +1,20 @@
+1, F. M. Dostoevsky, The Idiot
+2, Eckhart Tolle, A New Earth
+3, Hermann Hesse, Steppenwolf
+4, Ernest Hemingway, For Whom The Bell Tolls
+5, Hermann Hesse, Steppenwolf
+7, Jane Austen, Pride and Prejudice
+8, Ernest Hemingway, For Whom The Bell Tolls
+9, F. M. Dostoevsky, Notes from Underground
+10, Alexandre Dumas, The Count of Monte Cristo
+11, Hermann Hesse, Steppenwolf
+12, Jane Austen, Pride and Prejudice
+13, Ernest Hemingway, The Sun Also Rises
+14, Hermann Hesse, Siddhartha
+15, Hermann Hesse, The Glass Bead Game
+16, F. M. Dostoevsky, Crime and Punishment
+17, Alexandre Dumas, The Three Musketeers
+18, Ernest Hemingway, The Sun Also Rises
+19, Charles Dickens, Hard Times
+20, Eckhart Tolle, A New Earth
+6, Hermann Hesse, The Glass Bead Game
